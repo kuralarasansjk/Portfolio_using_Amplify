@@ -6,7 +6,7 @@ A high-performance, fully responsive personal portfolio website using HTML, CSS,
 
 ## 
 demo link using vercel because Not having enough money to host in aws   
-https://kuralarasan.cloud/
+[https://kuralarasan.cloud/](https://portfolio-using-amplify.vercel.app/)
 
 ---
 
@@ -193,13 +193,6 @@ These are **in-demand skills** for DevOps and Cloud Engineering roles!
 
 ---
 
-### screenshost
-**amplify dashboard**
-<img width="1917" height="959" alt="amplify" src="https://github.com/user-attachments/assets/17ad9afb-92a2-47d7-9f70-ce1fd5231af8" />
-**logs**
-<img width="1919" height="955" alt="log" src="https://github.com/user-attachments/assets/e23a1a58-757b-404b-8a5d-5c3ef17aa615" />
-**metric**
-<img width="1919" height="1003" alt="metric" src="https://github.com/user-attachments/assets/0a8d305d-e659-489c-986e-310868397ab7" />
 
 
 ## 👤 About This Project

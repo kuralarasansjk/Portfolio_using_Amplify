@@ -200,8 +200,7 @@ These are **in-demand skills** for DevOps and Cloud Engineering roles!
 <img width="1919" height="955" alt="log" src="https://github.com/user-attachments/assets/e23a1a58-757b-404b-8a5d-5c3ef17aa615" />
 **metric**
 <img width="1919" height="1003" alt="metric" src="https://github.com/user-attachments/assets/0a8d305d-e659-489c-986e-310868397ab7" />
-**domain - route-53**
-<img width="1919" height="1079" alt="domain" src="https://github.com/user-attachments/assets/03906d1e-2877-4719-8e8e-36d272b7e1ed" />
+
 
 ## 👤 About This Project
 

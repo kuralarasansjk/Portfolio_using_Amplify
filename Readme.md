@@ -6,7 +6,7 @@ A high-performance, fully responsive personal portfolio website using HTML, CSS,
 
 ## 
 demo link using vercel because Not having enough money to host in aws   
-[https://kuralarasan.cloud/](https://portfolio-using-amplify.vercel.app/)
+https://portfolio-using-amplify.vercel.app/
 
 ---
 
